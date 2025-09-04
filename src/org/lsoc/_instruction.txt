@@ -6,8 +6,8 @@ Go to the indentifyErrors file,
 1) Open up the file IdentifyErrors
 2) FIX the look of the file with option + shift + f (mac) [Shift + Alt + F  should work on windows]
 3) Run the code an Identify the 4 indentifyErrors and type them below [found in each try-catch]
-  A)
-  B)
-  C)
-  D)
+  A) logical - it will print on 2 different lines
+  B) logical - the stars will not move into a triangle but a square
+  C) math error/runtime - it will not run because 0 monkeys cannot get 5 bananas
+  D) custom error - error is made by user
 4)Save and sync changes with github to turn in! 

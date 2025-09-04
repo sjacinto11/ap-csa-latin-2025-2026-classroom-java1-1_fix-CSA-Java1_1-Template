@@ -5,6 +5,13 @@
             "name": "IdentifyErrors",
             "request": "launch",
             "mainClass": "IdentifyErrors",
+            "projectName": "ap-csa-latin-2025-2026-classroom-java1-1_fix-CSA-Java1_1-Template_bebbdde0"
+        },
+        {
+            "type": "java",
+            "name": "IdentifyErrors",
+            "request": "launch",
+            "mainClass": "IdentifyErrors",
             "projectName": "CSA-Template-Source_fc936bb0"
         },
         {
